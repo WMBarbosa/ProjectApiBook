@@ -1,4 +1,4 @@
-package br.com.projectApi;
+package br.com.projectApi.principal;
 
 import br.com.projectApi.model.Titulo;
 
